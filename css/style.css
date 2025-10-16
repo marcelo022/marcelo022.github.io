@@ -373,7 +373,7 @@ footer{
 }
 
 .card, section{
-    animation: fadeInUp 0.6s ease forwards;
+    animation: fadeInUp 0.6s ease;
 }
 
 .card:nth-child(2) {
