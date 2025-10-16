@@ -259,7 +259,7 @@ section:hover{
     color: var(--primary-color);
 }
 
-.item-data{
+.item-date{
     background: var(--primary-color);
     color: white;
     padding: 0.3rem 0.8rem;
@@ -313,8 +313,8 @@ footer{
     font-size: 2rem;
 }
 
-.copryight{
-    color: #94a3b8;
+.copyright{
+    color:#CCCCCC;
     font-size: 0.9;
 }
 
