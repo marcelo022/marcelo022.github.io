@@ -197,6 +197,7 @@ section{
     box-shadow: var(--shadow);
     padding: 2rem;
     transition: var(--transitio);
+    border-top: 3px solid #2196F3;
 }
 
 section:hover{
